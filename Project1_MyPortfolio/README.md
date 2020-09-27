@@ -21,5 +21,5 @@ input.addEventListener("change", function(){
 });
 ```
 ### Reference
-Course [CS5610 Web Development](https://johnguerra.co/classes/webDevelopment_fall_2020/) by Professor [John Alexis Guerra Gómez](https://johnguerra.co/)
+Course [CS5610 Web Development](https://johnguerra.co/classes/webDevelopment_fall_2020/) by Professor [John Alexis Guerra Gómez](https://johnguerra.co/)  
 [Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
