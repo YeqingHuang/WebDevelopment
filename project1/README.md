@@ -4,7 +4,7 @@ This is one of my projects for the course _CS5610 Web Development_ at Northeaste
 
 ### Resoures
 
-Fantastic librarys:
+Fantastic libraries:
 
 1. [Typed.js](https://github.com/mattboldt/typed.js/): Provide animation effect of typing strings and backspacing at customized speed.
 2. [jquery easing](https://jqueryui.com/easing/): Specify the speed of an animation at different points within the animation.
