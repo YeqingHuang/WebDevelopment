@@ -17,7 +17,7 @@ The color scheme I used comes from this [blog](https://visme.co/blog/website-col
 ### How to install and use
 
 No dependencies required for this project.   
-You can check `package.json` that I used to enhance coding styles.
+You can check `package.json` for the packages I used to enhance coding styles.
 
 ### Reference
 
