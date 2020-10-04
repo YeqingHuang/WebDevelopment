@@ -11,6 +11,8 @@ Fantastic libraries:
 -   [jQuery easing](https://jqueryui.com/easing/): Specify the speed of an animation at different points within the animation.
 -   [boxicons](https://boxicons.com/): High quality web icons that you can edit and use.
 
+Themes/Pictures:
+
 -   The original template is [iPortfolio](https://bootstrapmade.com/demo/iPortfolio/) made by [Bootstrapmade](https://bootstrapmade.com/).
 -   The html meta icon is downloaded from [flaticon](https://www.flaticon.com/).
 -   The covers of my projects are pictures found from [pexels](https://www.pexels.com/).
