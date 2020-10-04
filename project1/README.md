@@ -1,6 +1,6 @@
 ## My Personal Website
 
-This is one of my projects for the course _CS5610 Web Development_ at Northeastern University. For now, it has a homepage which shows my resume, some of my projects, and my social links. You can find the [demo here](https://yeqinghuang.github.io/), or refer to [Google slides](https://docs.google.com/presentation/d/1pbm0dqsHG0e5QT8eDDRXc9jfq1uYHwS87IEvrANNRm0/edit?usp=sharing) or a [5-min video](https://www.youtube.com/) in which I talked about it in detail.
+This is one of my projects for the course _CS5610 Web Development_ at Northeastern University. For now, it has a homepage which shows my resume, some of my projects and my social links. You can find the [demo here](https://yeqinghuang.github.io/), or refer to [Google slides](https://docs.google.com/presentation/d/1pbm0dqsHG0e5QT8eDDRXc9jfq1uYHwS87IEvrANNRm0/edit?usp=sharing) or a [5-min video](https://www.youtube.com/) in which I talked about it.
 
 ### Resoures
 
@@ -10,9 +10,9 @@ Fantastic libraries:
 2. [jQuery easing](https://jqueryui.com/easing/): Specify the speed of an animation at different points within the animation.
 3. [boxicons](https://boxicons.com/): High quality web icons that you can edit and use.
 
-The original template is [iPortfolio](https://bootstrapmade.com/demo/iPortfolio/) made by [Bootstrapmade](https://bootstrapmade.com/).
-The html meta icon is downloaded from [flaticon](https://www.flaticon.com/).
-The covers of my projects are pictures found from [pexels](https://www.pexels.com/).
+The original template is [iPortfolio](https://bootstrapmade.com/demo/iPortfolio/) made by [Bootstrapmade](https://bootstrapmade.com/).  
+The html meta icon is downloaded from [flaticon](https://www.flaticon.com/).  
+The covers of my projects are pictures found from [pexels](https://www.pexels.com/).  
 The color scheme I used comes from this [blog](https://visme.co/blog/website-color-schemes/).
 ![green color scheme](https://visme.co/blog/wp-content/uploads/2016/09/website27.jpg)
 
